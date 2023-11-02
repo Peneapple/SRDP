@@ -1,0 +1,14 @@
+Due to size limited in Github, I split the database into two files.
+you can combine these two by this code, also you can search them individually :D
+
+'''
+# Combine all CSV files into two files in python
+import csv
+import pandas as pd
+combined_csv = pd.concat([pd.read_csv(f'SRDP_results_all_cds_combined_{i}.csv') for i in ['A','B']])
+combined_csv.to_csv("SRDP_results_all_cds_combined_all.csv", index=False)
+'''
+
+In file named DrugBank, you can check gene-drug
+
+With these three files, you can easily get: [V/R gene] to [R/V gene] to [Drug] and assist your experiment
