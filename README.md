@@ -1,6 +1,6 @@
 SRDP: Predicting Synthetic Rescue Effect in Cancer Drug Resistance Through Multimodal Deep Learning
 
-peter_geng@stu.pku.edu.cn
+peter_geng@stu.pku.edu.cn\
 twitter: peter X. geng
 
 Here are all my codes and some small size data.
