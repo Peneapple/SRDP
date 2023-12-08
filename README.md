@@ -1,6 +1,6 @@
 SRDP: Predicting Synthetic Rescue Effect in Cancer Drug Resistance Through Multimodal Deep Learning
 
-[Dec,07,2023]
+[Dec,07,2023] \
 We are considering using more genome information, especially the rest of the all gene to study more complex SR effect, cause we received some advices that using just two genes is a little simple, and it is just like a binary classification. 
 We are trying to integrate more biological mechanism into the project, welcome to contact us and communicate!
 
